@@ -1,0 +1,367 @@
+
+
+
+/* menu */
+.navbarnav
+{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+/* partie 2 */
+
+/* petit texte à propos */
+
+#apropos
+{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 90px;
+}
+
+/* titre developpeuse web */
+.titreprin
+{
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 30px;
+}
+
+/* soustitre */
+.soustitre
+{
+    font-size: 15px;
+}
+
+/* texte */
+.textdev
+{
+    margin-top: 40px;
+}
+
+
+
+/* petite description web */
+
+.descrip
+{
+    /* fond */
+    background-color: rgb(221, 171, 155);
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+    /* écriture */
+    font-family: 'Raleway', sans-serif;
+    
+}
+/* titres */
+.créa 
+{
+    margin-top:150px;
+    margin-bottom: 50px;
+
+}
+
+.acces
+{
+    margin-top:150px;
+    margin-bottom: 50px;
+}
+
+.resp
+{
+    margin-top:150px;
+    margin-bottom: 50px;
+}
+
+/* petits textes */
+
+.txt1 
+{
+    
+    margin-bottom: 50px;
+}
+
+.txt2 
+{
+    
+    margin-bottom: 50px;
+}
+
+.txt3 
+{
+    
+    margin-bottom: 50px;
+}
+
+
+/* GALERIE PHOTO */
+
+
+
+.titreprin2
+{
+    font-family: 'Petit Formal Script', cursive;
+
+}
+
+.soustitre2
+{
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 70px;
+
+}
+
+/* images */
+
+.port1
+{
+    margin-bottom: 20px;
+
+}
+
+.port2
+{
+    margin-bottom: 20px;
+
+}
+
+.port3
+{
+    margin-bottom: 20px;
+
+}
+
+.port4
+{
+    
+}
+
+.port5
+{
+    
+}
+
+.port6
+{
+    
+}
+
+/* bouton galerie */
+
+#bouton1
+{
+
+    margin-top: 40px;
+    margin-bottom: 80px;
+    border-radius: 0px;
+    border-color: darkolivegreen;
+    font-family: 'Raleway', sans-serif;
+    
+    
+}
+
+
+
+/* footer */
+
+
+footer
+{
+    background-color: rgb(252, 238, 233);
+    margin-bottom: 40px;
+    margin-top: 70px;
+
+}
+/* formulaire... */
+
+#forme
+{
+    margin-bottom: 50px;
+    margin-top: 70px;
+    margin-left: 60px;
+    margin-right: 30px;
+    
+}
+
+#namee
+{
+    margin-top: 10px;
+    border-radius: 0px;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+#mail
+{
+    margin-top: 10px;
+    border-radius: 0px;
+
+}
+
+#obj
+{
+    margin-top: 10px;
+    border-radius: 0px;
+
+}
+
+#mess
+{
+    margin-top: 10px;
+    border-radius:  0px;
+
+}
+
+/* informations pratiques */
+
+#infopers
+{
+    margin-bottom: 50px;
+    margin-top: 70px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.titre3
+{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 40px;
+    margin-bottom: 30px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* QUI SUIS-JE CSS-------------------------------------------------------------------------------------------------------- */
+
+#photo1
+
+{
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: 150px;
+}
+
+.titreapro
+{
+    font-family: 'Petit Formal Script', cursive;
+    margin-top: 120px;
+    margin-right: 100px;
+
+
+
+}
+
+.txtapro
+{
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 100px;
+    margin-top: 70px;
+    margin-right: 100px;
+
+}
+
+
+
+
+
+
+/* PORTE-FOLIO --------------------------------------------------------------------------------------------------------*/
+
+.titreprin3
+{
+    margin-bottom: 0px;
+    margin-top: 70px;
+    font-family: 'Petit Formal Script', cursive;
+    
+}
+
+.soustitre3
+{
+    margin-bottom: 100px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* galerie tableau */
+
+.porte1
+{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+.porte2
+{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+.porte3
+{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+.porte4
+{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+.porte5
+{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+.porte6
+{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+.porte7
+{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+.porte8
+{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+.porte9
+{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+
+
+
+/* PARCOURS */
+
+
+
+
+.porte0
+
+{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
